@@ -1,6 +1,6 @@
 # Hi there 👋 (⌐■_■) 
 [Portfolio](https://therealdj97.github.io/)\
-![img](https://github.com/therealdj97/therealdj97/blob/main/Snapchat-493441800-01.jpeg)
+![img](https://github.com/therealdj97/therealdj97/blob/main/snapchat.jpeg)
 
 
 <!--
