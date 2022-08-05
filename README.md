@@ -1,5 +1,5 @@
-# Hi there 👋
-[Portfolio Website](https://therealdj97.github.io/)\
+# Hi there 👋 (⌐■_■) 
+[Portfolio](https://therealdj97.github.io/)\
 ![img](https://github.com/therealdj97/therealdj97/blob/main/Snapchat-493441800-01%201.svg)
 
 
