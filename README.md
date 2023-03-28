@@ -15,7 +15,8 @@ Here are some links to get you started:
 
 ![Avatar](/images/transperent.png "therealdj97Avatar") 
 
-<img src="/images/transperent.png" width=800 /> ![](/images/transperent.png) 
+<img src="/images/transperent.png" width="800" /> 
+![](/images/transperent.png) 
 
 ## 🌐 Socials:
 
