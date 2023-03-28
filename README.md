@@ -9,7 +9,7 @@ Here are some links to get you started:
 - 💬 Ask me about ... Anaything
 - 😄 Pronouns: ... therealdj97
 - ⚡ Fun fact: ... “To live is to risk it all; otherwise you’re just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.” — Rick
-![img](https://github.com/therealdj97/therealdj97/blob/main/snapchat.jpeg)
+![img](snapchat.jpeg)
 
 
 ## 🌐 Socials:
