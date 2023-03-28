@@ -8,7 +8,8 @@ Here are some links to get you started:
 - 🤔 I’m looking for help with ... Almost Everyting
 - 💬 Ask me about ... Anaything
 - 😄 Pronouns: ... therealdj97
-- ⚡ Fun fact: ... “To live is to risk it all; otherwise you’re just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.” — Rick
+- ⚡ Fun fact: ... “To live is to risk it all; otherwise you’re just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.” — Rick Sanchez
+
 ![img](snapchat.jpeg)
 
 
