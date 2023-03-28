@@ -11,7 +11,9 @@ Here are some links to get you started:
 - 😄 Pronouns: ... therealdj97
 - ⚡ Fun fact: ... “To live is to risk it all; otherwise you’re just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.” — Rick Sanchez
 
-![img](https://github.com/therealdj97/therealdj97/blob/main/transperent.png)
+<!-- ![img](transperent.png) -->
+
+![Avatar](/images/transperent.png "therealdj97Avatar")
 
 ## 🌐 Socials:
 
