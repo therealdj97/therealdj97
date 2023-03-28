@@ -12,10 +12,7 @@ Here are some links to get you started:
 - ⚡ Fun fact: ... “To live is to risk it all; otherwise you’re just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.” — Rick Sanchez
 
 <!-- ![img](transperent.png) -->
-
-![Avatar](/images/transperent.png "therealdj97Avatar") 
-
-<img src="/images/transperent.png" width="800" /> ![](/images/transperent.png) 
+<!-- <img src="/images/transperent.png" width="800" /> ![](/images/transperent.png)  -->
 
 ## 🌐 Socials:
 
@@ -46,3 +43,5 @@ Here are some links to get you started:
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/1) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/2) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/3) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/4)
+  
+![Avatar](/images/transperent.png "therealdj97Avatar") 
