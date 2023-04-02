@@ -21,6 +21,7 @@ Here are some links to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/therealdj97)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealdj97)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirajjohare)
+[kaggle](https://www.kaggle.com/therealdj97)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@DJ97) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/therealdj97)
 <!-- [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/8) -->
@@ -32,6 +33,8 @@ Here are some links to get you started:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/DJ97Presents)
 
 [snapchat](https://www.snapchat.com/add/therealdj97) |  [clubhouse](https://www.clubhouse.com/@therealdj97) | [unsplash](https://unsplash.com/@therealdj97) |
+
+
 
 ---
 
