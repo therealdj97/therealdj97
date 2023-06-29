@@ -4,10 +4,10 @@
 Here are some links to get you started:
 
 - 🔭 I’m currently working on ... Data
-- 🌱 I’m currently learning ... Bigdata & Analytics
+- 🌱 I’m currently learning ... AIDS (Artificial Intelligence & Data Science)
 - 👯 I’m looking to collaborate on ...Bigdata, MachineLearning
-- 🤔 I’m looking for help with ... Almost Everyting
-- 💬 Ask me about ... Anaything
+- 🤔 I’m looking for help with ... Almost Everything
+- 💬 Ask me about ... Anything
 - 😄 Pronouns: ... therealdj97
 - ⚡ Fun fact: ... “To live is to risk it all; otherwise you’re just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.” — Rick Sanchez
 
